@@ -1,5 +1,7 @@
 # 个人网站wiki系统
 
+[gimmick:themechooser](theme/solar.css)
+
 [站长简介](about.md)
 
 [app-server wiki 记录]()

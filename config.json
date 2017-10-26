@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "All content and images &copy; by John Doe",
+    "additionalFooterText": "",
     "anchorCharacter": "#",
-    "title": "个人网站wiki系统"
+    "title": "个人网站wiki系统",
 }
