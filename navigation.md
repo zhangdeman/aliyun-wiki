@@ -32,3 +32,6 @@
    - - - -
    * # 管理员信息表
    * [admin](schema/admin_sql.md)
+   - - - -
+   * # 文章类别信息表
+   * [admin](schema/article_kind_sql.md)

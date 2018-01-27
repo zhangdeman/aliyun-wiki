@@ -1,4 +1,4 @@
-# x管理员信息表结构
+# 管理员信息表结构
 
 ```sql
 CREATE TABLE `zdm_admin` (
