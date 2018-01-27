@@ -1,4 +1,4 @@
-# 文章存储表数据结构
+# 文章存储表结构
 
 ```sql
 CREATE TABLE `zdm_article` (

@@ -1,6 +1,4 @@
-# 个人网站wiki系统
-
-[gimmick:themechooser](theme/solar.css)
+# 个人博客wiki系统
 
 [站长简介](about.md)
 
@@ -32,5 +30,5 @@
    * # 文章信息表
    * [article](schema/article_sql.md)
    - - - -
-   * # SubMenu Heading 3
-   * [SubMenu Item 3](subitem3.md)
+   * # 管理员信息表
+   * [admin](schema/admin_sql.md)
