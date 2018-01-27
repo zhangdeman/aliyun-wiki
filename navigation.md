@@ -35,3 +35,6 @@
    - - - -
    * # 文章类别信息表
    * [article_kind](schema/article_kind_sql.md)
+   - - - -
+   * # 权限信息表
+   * [permission](schema/permission.md)
