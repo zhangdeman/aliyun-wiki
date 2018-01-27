@@ -38,3 +38,6 @@
    - - - -
    * # 权限信息表
    * [permission](schema/permission.md)
+   - - - -
+   * # 管理员授权信息表
+   * [admin_permission](schema/admin_permission_sql.md)
