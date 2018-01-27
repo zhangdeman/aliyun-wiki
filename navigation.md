@@ -34,4 +34,4 @@
    * [admin](schema/admin_sql.md)
    - - - -
    * # 文章类别信息表
-   * [admin](schema/article_kind_sql.md)
+   * [article_kind](schema/article_kind_sql.md)
