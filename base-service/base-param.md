@@ -1,10 +1,5 @@
 # 请求时的基本参数
 
-| 参数名        | 参数类型    | 参数含义 |是否必填|
-| --------   | -----:   | :---- | ：----： |
-| app_id        | int      |   应用id    | 是 |
-| app_name        | string      |   应用名称 | 是  |
-| timestamp        | timestamp     |   请求时的时间戳 | 是   |
 <table>
     <tr>
         <td>参数名</td>
@@ -12,5 +7,29 @@
         <td>参数含义</td>
         <td>是否必填</td>
     </tr>
+    <tr>
+        <td>app_id</td>
+        <td>int</td>
+        <td>应用ID</td>
+        <td>是</td>
+    </tr>
+    <tr>
+        <td>app_name</td>
+        <td>string</td>
+        <td>应用名称</td>
+        <td>是</td>
+    </tr>  
+    <tr>
+        <td>timestamp</td>
+        <td>timestamp</td>
+        <td>请求时间戳</td>
+        <td>是</td>
+    </tr>
+    <tr>
+         <td>sign</td>
+         <td>string</td>
+         <td>请求签名</td>
+         <td>是</td>
+    </tr>  
 </table>
 
