@@ -2,34 +2,34 @@
 
 <table>
     <tr>
-        <td>参数名</td>
-        <td>参数类型</td>
-        <td>参数含义</td>
-        <td>是否必填</td>
+        <td>*<b>参数名</b>*</td>
+        <td>*<b>参数类型</b>*</td>
+        <td>*<b>参数含义</b>*</td>
+        <td>*<b>是否必填</b>*</td>
     </tr>
     <tr>
-        <td>app_id</td>
-        <td>int</td>
-        <td>应用ID</td>
-        <td>是</td>
+        <td>*<b>app_id</b>*</td>
+        <td>*<b>int</b>*</td>
+        <td>*<b>应用ID</b>*</td>
+        <td>*<b>是</b>*</td>
     </tr>
     <tr>
-        <td>app_name</td>
-        <td>string</td>
-        <td>应用名称</td>
-        <td>是</td>
+        <td>*<b>app_name</b>*</td>
+        <td>*<b>string</b>*</td>
+        <td>*<b>应用名称</b>*</td>
+        <td>*<b>是</b>*</td>
     </tr>  
     <tr>
-        <td>timestamp</td>
-        <td>timestamp</td>
-        <td>请求时间戳</td>
-        <td>是</td>
+        <td>*<b>timestamp</b>*</td>
+        <td>*<b>timestamp</b>*</td>
+        <td>*<b>请求时间戳</b>*</td>
+        <td>*<b>是</b>*</td>
     </tr>
     <tr>
-         <td>sign</td>
-         <td>string</td>
-         <td>请求签名</td>
-         <td>是</td>
+         <td>*<b>sign</b>*</td>
+         <td>*<b>string</b>*</td>
+         <td>*<b>请求签名</b>*</td>
+         <td>*<b>是</b>*</td>
     </tr>  
 </table>
 
