@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "",
+    "additionalFooterText": "【张德满】个人博客WIKI系统。 备案号 ： <a href='http://www.miitbeian.gov.cn/'>京ICP备17063837号-1</a>",
     "anchorCharacter": "#",
     "title": "个人网站wiki系统",
 }
